@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Support 👨‍💻
 
-Any problems with running the script and any questions please cantact me via Twitter [@hendrik_bgr](https://twitter.com/Hendrik_bgr)
+None at all
 
 ### Prerequisites
 
@@ -70,10 +70,6 @@ python newpassword.py
 ## Built With
 
 * [ProxyScraper](https://github.com/JaredLGillespie/proxyscrape) - Tool for Proxy Scraping
-
-## Authors
-
-* **Hendrik Bgr** - *Initial work* - [HendrikBgr](https://github.com/hendrikbgr)
 
 ## License
 
